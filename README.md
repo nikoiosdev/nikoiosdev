@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/nikoiosdev/nikoiosdev/blob/main/banner.png?raw=true)](https://github.com/nikoiosdev)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikoiosdev&label=Profile%20views&color=0e75b6&style=flat" alt="nikoiosdev" /> </p>
 
