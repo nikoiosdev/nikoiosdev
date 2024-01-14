@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
-- 📫 How to reach me **n.nastajs@gmail.com**
+- 📫 How to reach me: **n.nastajs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikoiosdev&show_icons=true&locale=en" alt="nikoiosdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoiosdev&" alt="nikoiosdev" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoiosdev&" alt="nikoiosdev" /></p>
