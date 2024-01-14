@@ -14,7 +14,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+<p>![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikoiosdev&show_icons=true&locale=en" alt="nikoiosdev" /></p>
 
