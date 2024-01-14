@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikoiosdev&show_icons=true&locale=en" alt="nikoiosdev" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoiosdev&" alt="nikoiosdev" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoiosdev&" alt="nikoiosdev" width="20" /></p>
