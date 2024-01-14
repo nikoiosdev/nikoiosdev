@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikoiosdev&show_icons=true&locale=en" alt="nikoiosdev" width="400" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoiosdev&" alt="nikoiosdev" width="400" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikoiosdev&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
